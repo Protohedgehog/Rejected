@@ -21,7 +21,7 @@ cor.test(Rej.rate,IF,method="spearman")
 cor.test(Rej.rate,IF,method="kendall")
 
 # Results
-# Pearson's: cor=0.453, p=0.0005
+# Pearson's: cor=0.0453, p=0.0005
 # Spearman's: cor=0.0344, p=0.412
 # Kendall's: cor=0.0204, p=0.4706
 
